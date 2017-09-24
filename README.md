@@ -16,4 +16,4 @@ $ git clone https://github.com/artem179/fca.git
 $ python3
 >>> import FCA
 ```
-You can find the examples of using this library in `generating_sets_test.py` and `netx_closure_test.py`.
+You can find the examples of using this library in `generating_sets_test.py` and `next_closure_test.py`.
